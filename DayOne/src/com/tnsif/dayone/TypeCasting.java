@@ -41,6 +41,8 @@ public class TypeCasting {
 		
 		System.out.println(qwe);
 		
+		// byte range -128 to 0 to 127
+		
 		
 		
 	}
