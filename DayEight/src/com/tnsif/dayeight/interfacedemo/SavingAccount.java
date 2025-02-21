@@ -41,7 +41,7 @@ public class SavingAccount extends Customer implements Bank  {
 			System.out.println("Please deposit valid amount ");
 		}
 		else {
-			balance += amount;
+			balance += amount;  // balance= balance+ amt
 			System.out.println("Rs : "+ amount +" is deposited successfully ");
 		}
 		
